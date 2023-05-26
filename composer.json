@@ -1,0 +1,17 @@
+{
+    "name": "fiqri/utspbwl",
+    "description": "Ujian Tengah Semester Pemrograman Berbasis Web Lanjutan Tahun 2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fiqri fakhrizal",
+            "email": "fiqri.fakhrizal@gmail.com"
+        }
+    ],
+    "require": {}
+}
